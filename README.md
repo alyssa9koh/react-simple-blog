@@ -17,14 +17,22 @@ Task: Create a basic blog platform where users can read and write posts.
 
 ## Basic features
 
-### Basic feature here
+### Create account
 Description of basic feature here
 
-### Basic feature here
+### Make a post
 Description of basic feature here
+
+### Add friends
+Description of basic feature here
+
+### View feed
 
 ## Additional features (ideas for now)
-* Additional feature here (implemented / not implemented?)
+* Edit posts
+* Delete posts
+* Remove friends
+* Add account details (profile etc.)
 
 ## Progress tracker
 * Project start: 10 March 2024
