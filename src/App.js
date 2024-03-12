@@ -1,10 +1,10 @@
 import './App.css';
 
-import Blog from './components/blog';
+import Dash from './components/dash';
 
 function App() {
   return (
-    <Blog />
+    <Dash />
   );
 }
 
